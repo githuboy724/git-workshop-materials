@@ -7,6 +7,7 @@ def study_tip():
     print("Use branches to work on new features!")
     print("Review your code before opening a pull request!")
     print("new study tip 1")
+    print("branch2 study tip 2")
 
 
 study_tip()
